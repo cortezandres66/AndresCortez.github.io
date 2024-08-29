@@ -4,6 +4,6 @@ The portfolio highlights my experience with data analysis, visualization, and re
 featuring projects that demonstrate my proficiency in tools like Excel, SQL, and Tableau. 
 
 Whether you're curious about data trends or innovative analytics, 
-I welcome you to explore the work I've done and see the impact I can make!"
+I welcome you to explore the work I've done and see the impact I can make!
 
 
