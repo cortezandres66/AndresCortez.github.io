@@ -1,8 +1,8 @@
 My portfolio highlight my experience with data analysis, visualizations, and repositories
 featuring projects that demonstrate my profeciency in tools like Excel, SQL, and Tableau.
 
-Whether you are curious about data trend or innovative analytics,
-I welcome you to explore the work I have done and see the ompact I can make!
+Whether you are curious about data trends or innovative analytics,
+I welcome you to explore the work I have done and see the impact I can make!
 
 Thank you!
 
